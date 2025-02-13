@@ -1,5 +1,5 @@
 import './App.css'
-import Quiz_1 from './components/quiz_1'
+import Quiz_1 from './components/Quiz_1'
 import Quiz_2 from './components/Quiz_2'
 import CarGame from './components/CarGame'
 import { BrowserRouter, Route, Routes } from 'react-router-dom'
